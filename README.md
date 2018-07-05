@@ -2,9 +2,9 @@
 Remittance is an ethereum  based smart contract which allows people to transfer value between any two parties through exchange.
 
 There are three parties involved in the transactions:
-..* Exchange
-..* Receiver (or) Payee
-..* Sender (or) Payer
+* Exchange
+* Receiver (or) Payee
+* Sender (or) Payer
 
 **Sender**  can create a new payment request by providing the ether available for transfer and a puzzle that both **Receiver** and **Exchange** should solve together to receive the ether.
 

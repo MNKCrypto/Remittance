@@ -12,7 +12,7 @@ Puzzle is created for a payment by getting a couple of strings from the **Sender
 
 **Exchange** should then pass on the **OTP** of both **Sender** and **Receiver** along with the **Sender** and **Receiver** address.
 
-The **Contract-Owner** has also option to self-destroy this contract any time using **killRemittanceContract** function.
+The **Contract-Owner** has also option to pause / un-pause this contract any time using **pauseRemittanceContract** / **resumeRemittanceContract** function.
 
 
 
